@@ -1,2 +1,11 @@
-.class*
+*.class
+/.class
+
+**/*.class
+
+/.class
+
 .class/
+
+# Ignore all .class files in the dsa directory and subdirectories
+*.class
